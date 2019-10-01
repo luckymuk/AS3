@@ -1,0 +1,1 @@
+curl -k -u admin -X POST -H "Content:Type:application/json" -d @http.json https://192.168.62.128/mgmt/shared/appsvcs/declare  -vvvv
